@@ -16,7 +16,7 @@ function App() {
 
 
   
-  <BrowserRouter >
+  <BrowserRouter basename="/MoviesDB">
  
    <Navbar />
    <Routes>
